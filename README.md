@@ -7,7 +7,7 @@ Five CSV files:
 3. dim_rooms
 4. fact_aggregated_bookings
 5. fact_bookings
-6. 
+
 The following finding are made from this dataset
 1 Total Revenue
 2 Total Bookings 
